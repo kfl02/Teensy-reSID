@@ -26,6 +26,7 @@
  */
 #include "reSID.h"
 #include <AudioStream.h>
+#include <cmath>
 
 
 #define SAMPLERATE AUDIO_SAMPLE_RATE_EXACT
