@@ -18,7 +18,7 @@
 //  ---------------------------------------------------------------------------
 
 #include "sid.h"
-#include <math.h>
+#include <cmath>
 #include <AudioStream.h>
 RESID_NAMESPACE_START
 
